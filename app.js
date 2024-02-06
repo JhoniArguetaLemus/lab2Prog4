@@ -62,6 +62,7 @@ const mouse2=document.getElementById("mouse2");
 mouse2.addEventListener("mouseover", ()=>{
     mouse2.style.width="340px";
     mouse2.style.width="340px";
+    alert("El tamaño de la caja ha cambiado")
 })
 
 
